@@ -34,7 +34,7 @@ CNN hits benchmark performance (99.6%) in 10 epochs vs the benchmark's 50. Rando
 
 ![Accuracy](Results/accuracy.png)
 
-[▶ Watch demo](https://drive.google.com/file/d/1CPr5ByE0y6lfpSP74mAtbpxVqXWa1N2r/view?usp=drive_link)
+[▶ Watch Report](https://drive.google.com/file/d/1CPr5ByE0y6lfpSP74mAtbpxVqXWa1N2r/view?usp=drive_link)
 
 ---
 
